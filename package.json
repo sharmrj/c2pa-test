@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@fastify/compress": "^7.0.3",
+    "@fastify/cors": "^9.0.1",
+    "c2pa-node": "^0.5.20",
+    "fastify": "^4.28.1"
+  }
+}
